@@ -1,0 +1,47 @@
+th {
+    border: 0 solid black;
+    text-align: center;
+    background-color: plum;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+h1 {
+    font-size: 30px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h2 {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 22px;
+    color: rebeccapurple;
+}
+
+table {
+    border: 2px solid darkorchid;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    
+}
+
+td {
+    border-bottom: 1px solid black;
+    text-align: center;
+    font-family: monospace;
+}
+
+.description {
+    text-align: justify;
+}
+
+body {
+    background-color: gainsboro;
+    font-family: monospace, 'Courier New', serif;
+}
+
+* {
+    color: black;
+}
